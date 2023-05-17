@@ -13,8 +13,8 @@ def greet_with_default(name="programmer"):
 
 def add(num1, num2):
     return num1 + num2
-    pass
+    
 
 def halve(number):
     return number / 2
-    pass
+    
